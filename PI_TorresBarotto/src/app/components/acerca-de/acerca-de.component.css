@@ -1,0 +1,26 @@
+.row{
+    padding: 20px;
+}
+div{
+    background-color: silver;
+    text-align: center;
+}
+/*mejoro , redondeo foto perfil con mediaquery*/
+@media (min-width: 576px) {
+    #fotoperfil{
+        position:absolute;
+        width: 13%;
+        border-radius: 100%;
+        box-shadow: 3px 3px green;
+        left: 2%;
+        top: 780px;
+    }
+}
+
+/*pongo nombre con negrita*/
+#nombre{
+    font-weight: bold;
+    font-size: x-large;
+    margin-top: 10%;
+    margin-left: 5px;
+}
