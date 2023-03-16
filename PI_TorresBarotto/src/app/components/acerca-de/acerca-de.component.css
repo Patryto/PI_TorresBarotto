@@ -5,7 +5,7 @@ div{
     background-color: silver;
     text-align: center;
 }
-/*mejoro , redondeo foto perfil con mediaquery*/
+/*mejoro , redondeo foto perfil con mediaquery pant grandes*/
 @media (min-width: 576px) {
     #fotoperfil{
         position:absolute;
@@ -17,6 +17,17 @@ div{
     }
 }
 
+/*mejoro , redondeo foto perfil con mediaquery pant chicas */
+@media (max-width: 575px) {
+    #fotoperfil{
+        position:absolute;
+        width: 30%;
+        border-radius: 100%;
+        box-shadow: 3px 3px green;
+        left: 30%;
+        top: 680px;
+    }
+}
 /*pongo nombre con negrita*/
 #nombre{
     font-weight: bold;
