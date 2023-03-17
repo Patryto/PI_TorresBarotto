@@ -23,7 +23,7 @@ div{
         position:absolute;
         width: 30%;
         border-radius: 100%;
-        box-shadow: 3px 3px green;
+        box-shadow: 5px 5px green;
         left: 30%;
         top: 680px;
     }
