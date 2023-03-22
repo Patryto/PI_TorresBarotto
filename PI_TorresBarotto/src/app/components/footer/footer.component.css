@@ -1,0 +1,11 @@
+.row {
+    background-color: silver;
+}
+footer {
+    color: whitesmoke;
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    box-shadow: 10px 10px 30px #6b6e75;
+}
