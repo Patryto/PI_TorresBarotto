@@ -9,11 +9,11 @@ div{
 @media (min-width: 576px) {
     #fotoperfil{
         position:absolute;
-        width: 13%;
+        width: 15%;
         border-radius: 100%;
         box-shadow: 3px 3px green;
         left: 2%;
-        top: 780px;
+        top: 750px;
     }
 }
 
@@ -25,7 +25,7 @@ div{
         border-radius: 100%;
         box-shadow: 5px 5px green;
         left: 30%;
-        top: 680px;
+        top: 800px;
     }
 }
 /*pongo nombre con negrita*/
