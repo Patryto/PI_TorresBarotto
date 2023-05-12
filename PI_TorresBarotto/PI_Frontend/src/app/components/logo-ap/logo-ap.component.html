@@ -1,1 +1,15 @@
-<img src="../../../assets/logoArgProg.png" id="logoAP">
+<div class="row">
+    <div class="container">
+        <div class="logo"> 
+            <img src="../../../assets/logoArgProg.png" id="logoAP">  
+        </div>
+        <div class="redes">
+            <a href="/login"><img src="../../../assets/logoDiscord.png" id="discord"></a>
+            <a href=""><img src="../../../assets/logoFace.png" id="facebook"></a>
+            <a href=""><img src="../../../assets/logoInstagram.png" id="instagram"></a>
+            <a href=""><img src="../../../assets/logoWapp.png" id="whatsapp"></a>
+            <button type="button" class="btn btn-outline-light" (click)="login()" *ngIf="!islogged">INGRESO</button>
+            <button type="button" class="btn btn-outline-light" (click)="onLogOut()" *ngIf="islogged">CERRAR CESION</button>
+        </div>
+    </div>
+</div>
