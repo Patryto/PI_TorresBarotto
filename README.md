@@ -12,3 +12,6 @@ La base de datos de MYSQL tiene guardados mis datos y tablas de usuarios y roles
 Lo probé con PostMan y funcionan las acciones de ccrear, modificar y borrar. Incluso se genera correctamente el Token de cada usuario.
 Pero No llegué a subirla a FireBase.
 No llegué a completar el Deploy con Render.
+Por indicación del tutor Mauricio Cejas estoy subiendo lo que tengo hasta ahora.
+Mi intención es recursar #Yo programo para poder terminar el proyecto, ya que por cuestiones laborales, dipongo de muy poco tiempo para programar por semana, por lo que no pude terminar.
+Solo que el tutor y la coordinadora del programa me dicen que no saben si saldrá una nueva edición.
