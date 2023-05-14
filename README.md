@@ -1,6 +1,7 @@
 # PI_TorresBarotto
-Proyecto final Yo Programo 
-Por indicación del tutor Mauricio Cejas estoy subiendo lo que tengo hasta ahora. Mi intención es recursar #Yo programo para poder terminar el proyecto, ya que por cuestiones laborales, dipongo de  poco tiempo para programar por semana, por lo que no pude terminar el proyecto. Solo que el tutor y la coordinadora del programa me dicen que no saben si saldrá una nueva edición para que puedan reinscribirme.
+Proyecto final Yo Programo:  
+
+  Por indicación del tutor Mauricio Cejas estoy subiendo lo que tengo hasta ahora. Mi intención es recursar #Yo programo para poder terminar el proyecto, ya que por cuestiones laborales, dipongo de  poco tiempo para programar por semana, por lo que no pude terminar el proyecto. Solo que el tutor y la coordinadora del programa me dicen que no saben si saldrá una nueva edición para que puedan reinscribirme.
 
 Lo que esta subido en este repo es lo que pude hacer hasta la fecha, dentro de la carpeta PI_TorresBarotto estan las carpetas de PI_Frontend y PI_BackEnd. 
 
